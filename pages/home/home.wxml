@@ -1,2 +1,4 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<text>home</text>
+<button>123</button>
+<view>知识点1</view>
